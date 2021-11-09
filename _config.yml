@@ -103,7 +103,7 @@ theme: shoka
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@xtgh.xyz:/home/git/blog.git
+  repo: git@github.com:Tritoce/Tritoce.github.io.git
   branch: master     
 jsonContent:
   dateFormat: MM-DD
