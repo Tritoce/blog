@@ -38,7 +38,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "gulp-sass": "^5.0.0",
+    "gulp-sass": "^5.1.0",
     "hexo-feed": "^1.1.0",
     "sass": "^1.42.1"
   }
